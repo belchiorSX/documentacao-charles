@@ -1,0 +1,50 @@
+# documentacao-charles
+
+
+# Charles Arbitragem
+
+O Charles Arbitragem é um software inovador dedicado à arbitragem esportiva, projetado para ajudar apostadores a maximizar seus lucros. Ele coleta e analisa informações de diversas casas de apostas, identificando oportunidades de "sure bets", onde é possível garantir lucro independentemente do resultado de um evento esportivo.
+
+Com uma interface intuitiva e fácil de usar, o Charles Arbitragem permite que os usuários monitorem as odds em tempo real, facilitando a tomada de decisões rápidas e informadas. Seu algoritmo avançado busca as melhores oportunidades, garantindo que os apostadores possam aproveitar as discrepâncias nas odds oferecidas por diferentes plataformas de apostas.
+
+Ideal tanto para iniciantes quanto para apostadores experientes, o Charles Arbitragem é uma ferramenta essencial para quem busca otimizar sua estratégia de apostas e aumentar suas chances de sucesso no mundo das apostas esportivas.
+
+A média de lucro por operação é de cerca de 1.5% ao dia.
+
+## Arquitetura
+![Imagem](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/charles.drawio.png?alt=media&token=b64e5563-0fc7-4b2c-8340-879a7cdb6bdc)
+## Stack
+
+Node, Python
+
+Mongo, Firebase
+
+## APP
+
+![Imagem](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/charles_1.PNG?alt=media&token=355250fd-4b45-49e3-ba33-7ff62bc2f7a0)
+
+![Imagem](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/charles_2.PNG?alt=media&token=2aab431c-b9b5-4798-8976-603374c26fdd)
+
+![Imagem](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/charles_3.PNG?alt=media&token=23c07c80-3405-4730-b23c-1db67cda0433)
+## Projetos
+
+Pinnacle
+https://github.com/belchiorSX/pinnacle
+
+1xbet
+https://github.com/belchiorSX/1xbet
+
+Betano
+https://github.com/belchiorSX/betano
+
+Novibet
+https://github.com/belchiorSX/novibet
+
+Match
+https://github.com/belchiorSX/match
+
+Surebet
+https://github.com/belchiorSX/surebet
+
+Functions lib
+https://github.com/belchiorSX/functions
